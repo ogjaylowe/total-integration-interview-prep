@@ -1,0 +1,24 @@
+{
+  "name": "total_integration_interview_prep",
+  "version": "1.0.0",
+  "description": "a collection of routes that serve imitation api information for interview prep questions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogjaylowe/total-integration-interview-prep.git"
+  },
+  "author": "Jay Lowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogjaylowe/total-integration-interview-prep/issues"
+  },
+  "homepage": "https://github.com/ogjaylowe/total-integration-interview-prep#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
